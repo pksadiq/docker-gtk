@@ -1,0 +1,13 @@
+# -*- mode: gitignore; -*-
+
+# Editor temporary files
+*~
+\#*#
+.#*
+*.swp
+
+# Avoid accidental inclusion of GnuPG, ssh keys.
+# This may not happen, but if in case ...
+*.gpg
+*_rsa
+*_rsa\.[0-9]
