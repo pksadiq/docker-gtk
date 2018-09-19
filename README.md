@@ -3,16 +3,17 @@
 
 Supported tags and intended usage:
 
-* `pksadiq/gtk:alpine-amd64`:
-  * Base image: Alpine 3.8
-  * GTK+3 Development for GNU/Linux
+1. `pksadiq/gtk:alpine-amd64`:
+   * Base image: Alpine 3.8
+   * GTK+3 Development for GNU/Linux
 
-* `pksadiq/gtk:fedora-amd64`:
-  * Base image: Fedora 28
-  * GTK+3 Development for GNU/Linux
-  * GTK+3 Development for Windows (using MinGW)
+1. `pksadiq/gtk:fedora-amd64`:
+   * Base image: Fedora 28
+   * GTK+ 3/4 Development for GNU/Linux
+   * GTK+3 Development for Windows (using MinGW)
   
 
-Please see [My GTemplate](https://www.sadiqpk.org/projects/my-gtemplate.html)
-project for a feature rich GTK3/GTK4 Template released into
-Public Domain (CC0).
+Please see [My GTemplate][my-gtemplate] project for a feature rich
+GTK3/GTK4 Template released into Public Domain (CC0).
+
+[my-gtemplate]: https://www.sadiqpk.org/projects/my-gtemplate.html
