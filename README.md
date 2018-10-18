@@ -8,7 +8,7 @@ Supported tags and intended usage:
    * GTK+3 Development for GNU/Linux
 
 1. `pksadiq/gtk:fedora-amd64`:
-   * Base image: Fedora 28
+   * Base image: Fedora 29
    * GTK+ 3/4 Development for GNU/Linux
    * GTK+3 Development for Windows (using MinGW)
   
