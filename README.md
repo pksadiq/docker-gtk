@@ -1,7 +1,7 @@
 # Docker images for GTK+ application developers
 
 
-Supported tags and intended usage:
+Supported tags:
 
 1. `pksadiq/gtk:alpine-amd64`:
    * Base image: Alpine Edge
