@@ -4,7 +4,7 @@
 Supported tags and intended usage:
 
 1. `pksadiq/gtk:alpine-amd64`:
-   * Base image: Alpine 3.8
+   * Base image: Alpine Edge
    * GTK+3 Development for GNU/Linux
 
 1. `pksadiq/gtk:fedora-amd64`:
