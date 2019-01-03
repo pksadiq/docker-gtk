@@ -1,3 +1,4 @@
 FROM fedora:29
 
-RUN dnf -y install dnf-plugins-core && dnf -y builddep bijiben && rm -rf /var/cache
+RUN dnf -y install dnf-plugins-core ccache && dnf -y builddep bijiben \
+    && rm -rf /var/cache
