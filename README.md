@@ -1,16 +1,16 @@
-# Docker images for GTK+ application developers
+# Docker images for GTK application developers
 
 
 Supported tags:
 
 1. `pksadiq/gtk:alpine-amd64`:
    * Base image: Alpine Edge
-   * GTK+3 Development for GNU/Linux
+   * GTK3/GTK4 Development for GNU/Linux
 
 1. `pksadiq/gtk:fedora-amd64`:
-   * Base image: Fedora 29
-   * GTK+ 3/4 Development for GNU/Linux
-   * GTK+3 Development for Windows (using MinGW)
+   * Base image: Fedora 34
+   * GTK3/GTK4 Development for GNU/Linux
+   * GTK3 Development for Windows (using MinGW)
   
 
 Please see [My GTemplate][my-gtemplate] project for a feature rich
